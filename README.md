@@ -39,16 +39,17 @@
 </details>
 
 <details>
-<summary>Stack</summary>
+<summary>Стек</summary>
 
-- Python 3.11
-- Python-telegram-bot 20.5
-- PostgreSQL 16.0
-- Alembic
-- Django 4.2.7
-- Docker
-- Docker-Compose
-- Poetry 1.6.1
+- [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=Python&logoColor=3776AB&labelColor=d0d0d0)](https://www.python.org/)
+- [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0.23-blue?style=flat-square&logo=SQLAlchemy&logoColor=3776AB&labelColor=d0d0d0)](https://www.sqlalchemy.org/blog/2023/11/02/sqlalchemy-2.0.23-released/)
+- [![Alembic](https://img.shields.io/badge/Alembic-1.12.1-blue?style=flat-square&logoColor=3776AB&labelColor=d0d0d0)](https://pypi.org/project/alembic/)
+- [![Python-telegram-bot](https://img.shields.io/badge/Python_telegram_bot-20.5-blue?style=flat-square&logoColor=3776AB&labelColor=d0d0d0)](https://python-telegram-bot.org/)
+- [![Django](https://img.shields.io/badge/Django-4.2.7-blue?style=flat-square&logo=Django&logoColor=3776AB&labelColor=d0d0d0)](https://docs.djangoproject.com/en/4.2/releases/4.2.7/)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=3776AB&labelColor=d0d0d0)](https://www.postgresql.org/)
+- [![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=3776AB&labelColor=d0d0d0)](https://www.docker.com/)
+- [![Poetry](https://img.shields.io/badge/Poetry-1.6.1-blue?style=flat-square&logo=Poetry&logoColor=3776AB&labelColor=d0d0d0)](https://python-poetry.org/)
+
 </details>
 
 <details>
@@ -221,3 +222,4 @@ docker-compose exec tg_bot_second_wind python3 src/contacts_upload.py
 - [Дмитрий Белолипецкий](https://github.com/EvolDem)
 - [Станислав Сагалов](https://github.com/S-Sagalov)
 </details>
+
